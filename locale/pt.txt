@@ -1,0 +1,292 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_12555774_07B6_2330_4191_732996FF3B93.source = https://host.promentor.com.br/lola/site/
+LinkBehaviour_07E1C0A9_1F3F_4464_4199_C304CECC474F.source = https://host.promentor.com.br/lola/site/
+LinkBehaviour_1264726E_07BE_FD51_415B_AE07BC74CE83.source = https://wa.me/556240164384?text=Bem%20vindo!!!!%20Qual%20Im%C3%B3vel%20voc%C3%AA%20busca%20informa%C3%A7%C3%A3o%3F
+LinkBehaviour_07FF2109_1F3F_4427_41AF_2E15B36972FA.source = https://wa.me/556240164384?text=Bem%20vindo!!!!%20Qual%20Im%C3%B3vel%20voc%C3%AA%20busca%20informa%C3%A7%C3%A3o%3F
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15286.120221840452!2d-49.2537173!3d-16.7003839!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc9ec2e0dd05930b2!2sMAXXI%20135!5e0!3m2!1spt-BR!2sbr!4v1675535593462!5m2!1spt-BR!2sbr
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15286.120221840452!2d-49.2537173!3d-16.7003839!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc9ec2e0dd05930b2!2sMAXXI%20135!5e0!3m2!1spt-BR!2sbr!4v1675535593462!5m2!1spt-BR!2sbr
+LinkBehaviour_07FF8108_1F3F_4425_41B4_6760BDE63352.source = https://www.instagram.com/claudia.vasconcelos/
+LinkBehaviour_121DEBD1_07B2_2370_4196_A16DFA5F52DA.source = https://www.instagram.com/claudia.vasconcelos/
+
+## Media
+
+### Audio
+audiores_07B2B16D_1D56_5954_41AC_D093143CB071.mp3Url = media/audio_04C3A030_1D55_D6CC_41B3_0E83540D8D5D_pt.mp3
+
+### Title
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_0.label = IMG_9811-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_1.label = IMG_9814-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_2.label = IMG_9817-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_3.label = IMG_9820-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_4.label = IMG_9823-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_5.label = IMG_9828
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_6.label = IMG_9829-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_7.label = IMG_9832-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_8.label = IMG_9835-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_9.label = IMG_9838-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_10.label = IMG_9841-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_11.label = IMG_9844-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_12.label = IMG_9850-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_13.label = IMG_9853-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_14.label = IMG_9856-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_15.label = IMG_9862-HDR-Editar
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_16.label = IMG_9865-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_17.label = IMG_9868-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_18.label = IMG_9871-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_19.label = IMG_9874-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_20.label = IMG_9877-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_21.label = IMG_9880-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_22.label = IMG_9883-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_23.label = IMG_9886-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_24.label = IMG_9889-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B_25.label = IMG_9892-HDR
+album_0A58F0AC_1CD6_B7D4_41AD_D21B1CBD5D1B.label = Maxxi 135
+panorama_095867B6_04B2_6331_416C_C7A815A18192.label = corredor
+panorama_0F5E11B1_04B2_7F30_4162_00539A9292A9.label = corredor2
+panorama_0F59ABCC_04B2_6350_417C_70F69D1CC8E4.label = cozinha
+panorama_0F59F57D_04B2_2730_413B_EBFEAB2A2922.label = lavabo
+panorama_0F598080_04B2_3DD0_4160_F306C3AD9860.label = sala1
+panorama_0F59AB70_04B2_2330_4168_75C552BE1490.label = sala2
+panorama_0F588661_04B2_E550_4184_27C37AB1BB1B.label = sala3
+panorama_0F58A6FA_04B2_E530_416C_A3802D176934.label = sala4
+panorama_0F58D05D_04B2_3D70_4176_8311043E7F2E.label = sala5
+panorama_0F58E0F9_04B2_5D30_4184_680512C84B66.label = sala6
+panorama_0F589108_04B2_7CD0_4173_3761BA420CB1.label = sala7
+panorama_0F5A58BF_04B6_2D30_4174_898329179076.label = suíte 1 a
+panorama_0F5A194F_04B6_6F50_4178_2EA4AD8E1FA6.label = suíte 1 b
+panorama_0F59A07A_04B6_3D30_4174_ED6AC00BBE65.label = suíte 1 banho
+panorama_0F5E652A_04B2_24D0_418E_81E0EB71A14E.label = suíte 2 banho
+panorama_0F589344_04B2_2350_4170_6DC960E70286.label = suíte 2a
+panorama_0F59665A_04B5_E570_4188_A05C6E44E4C3.label = suíte 3 a
+panorama_0F599680_04B5_E5D0_4186_8D148E0E05D0.label = suíte 3 b
+panorama_0F59A70A_04B6_24D0_4171_AD18849F10D0.label = suíte 3 banho
+
+## Skin
+
+### Button
+Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.label = BACK
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B_mobile.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label = BACK
+Button_175A5214_31FA_0014_4198_930DF49BADD9.label = BACK
+Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C_mobile.label = BACK
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B_mobile.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A.label = BACK
+Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label = BACK
+Button_168CA310_3106_01EC_41C7_72CE0522951A_mobile.label = BACK
+Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label = BACK
+Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1_mobile.label = BACK
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = Bar
+Button_2A2C553C_310E_0014_41C4_86393D0ADCC7_mobile.label = Bar
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = CORREDOR
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = CORREDOR
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = CORREDOR
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = CORREDOR
+Button_140BF12B_0572_DCD0_4194_A2AA60DE2EFA.label = COZINHA
+Button_140BF12B_0572_DCD0_4194_A2AA60DE2EFA_mobile.label = COZINHA
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label = Chill Out
+Button_15EF2665_3106_0035_41AE_9BACA1A48D02_mobile.label = Chill Out
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Garden
+Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.label = Garden
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = LAVABO
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = LAVABO
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label = Lobby
+Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD_mobile.label = Lobby
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727.label = Lorem Ipsum
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label = Lorem Ipsum
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = Lorem Ipsum
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A.label = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label = Lorem Ipsum
+Button_15A13DDC_31FA_0014_41C5_41AE80876834.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52.pressedLabel = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Lorem Ipsum
+Button_15A10DDC_31FA_0014_4185_021C898E177D.label = Lorem Ipsum
+Button_17598215_31FA_0014_41AC_1166AB319171.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.pressedLabel = Lorem Ipsum
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label = Lorem Ipsum
+Button_17593215_31FA_0014_41C0_42BAFB0080F0.label = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1_mobile.label = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76.label = Lorem Ipsum
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B.label = Lorem Ipsum
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.label = Lorem Ipsum
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A.label = Lorem Ipsum
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.pressedLabel = Lorem Ipsum
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189.label = Lorem Ipsum
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label = Lorem Ipsum
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813.label = Lorem Ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43.label = Lorem Ipsum
+Button_17EB62B7_3106_0014_41C5_43B38271B353.label = Lorem Ipsum
+Button_17EB72B7_3106_0014_41B9_61857077BF4A.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28_mobile.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5.pressedLabel = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6_mobile.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.pressedLabel = Lorem Ipsum
+Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label = Lorem Ipsum
+Button_168DA310_3106_01EC_41BE_DF88732C2A28.label = Lorem Ipsum
+Button_168D9311_3106_01EC_41A8_3BD8769525D6.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E.label = Lorem Ipsum
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F_mobile.label = Lorem Ipsum
+Button_168DD310_3106_01EC_4190_7815FA70349E_mobile.label = Lorem Ipsum
+Button_17EB52B7_3106_0014_419C_439E593AEC43_mobile.label = Lorem Ipsum
+Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3_mobile.label = Lorem Ipsum
+Button_1757AD7D_31FA_0015_41C7_FB79F56FA149_mobile.label = Lorem Ipsum
+Button_168D3310_3106_01EC_41AC_5D524E4677A5_mobile.label = Lorem Ipsum
+Button_17565D7D_31FA_0015_4193_78BBCB2DC70F_mobile.label = Lorem Ipsum
+Button_168D5310_3106_01EC_41B5_96D9387401B8_mobile.label = Lorem Ipsum
+Button_168D6310_3106_01EC_41B8_A0B6BE627547_mobile.label = Lorem Ipsum
+Button_17EB92B7_3106_0014_41B2_34A3E3F63779_mobile.label = Lorem Ipsum
+Button_17EB72B7_3106_0014_41B9_61857077BF4A_mobile.label = Lorem Ipsum
+Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A_mobile.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.pressedLabel = Lorem Ipsum
+Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA_mobile.label = Lorem Ipsum
+Button_17EAD2B7_3106_0014_41C0_0B5453B4841D_mobile.label = Lorem Ipsum
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
+Button_17EB62B7_3106_0014_41C5_43B38271B353_mobile.label = Lorem Ipsum
+Button_15A10DDC_31FA_0014_4185_021C898E177D_mobile.label = Lorem Ipsum
+Button_15A13DDC_31FA_0014_41C5_41AE80876834_mobile.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.label = Lorem Ipsum
+Button_15A12DDC_31FA_0014_416B_ED845741AE5F_mobile.pressedLabel = Lorem Ipsum
+Button_159EDDDC_31FA_0014_419A_61C18E43FE01_mobile.label = Lorem Ipsum
+Button_159ECDDC_31FA_0014_41B9_2D5AB1021813_mobile.label = Lorem Ipsum
+Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7_mobile.label = Lorem Ipsum
+Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB_mobile.label = Lorem Ipsum
+Button_159E9DDC_31FA_0015_41B6_CB1D433C7673_mobile.label = Lorem Ipsum
+Button_159E8DDD_31FA_0014_41C5_F18F441AF371_mobile.label = Lorem Ipsum
+Button_159EBDDD_31FA_0014_41C8_935504B30727_mobile.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.label = Lorem Ipsum
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.label = Lorem Ipsum
+Button_17EB02B7_3106_0014_41AF_05D9AC36B189_mobile.label = Lorem Ipsum
+Button_17564D7D_31FA_0015_41B8_A9191CD56C52_mobile.label = Lorem Ipsum
+Button_17EAB2B7_3106_0014_41A7_209417AD3E9A_mobile.label = Lorem Ipsum
+Button_17598215_31FA_0014_41AC_1166AB319171_mobile.label = Lorem Ipsum
+Button_17EB32B7_3106_0014_41C8_467BF6AECBE8_mobile.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.label = Lorem Ipsum
+Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2_mobile.label = Lorem Ipsum
+Button_17562D7D_31FA_0015_41A3_96B282B30DBA_mobile.label = Lorem Ipsum
+Button_1759F215_31FA_0014_41BD_BBFA5FB0D882_mobile.pressedLabel = Lorem Ipsum
+Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC_mobile.label = Lorem Ipsum
+Button_1758B215_31FA_0014_41BC_C4EAC2A9544B_mobile.label = Lorem Ipsum
+Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0_mobile.pressedLabel = Lorem Ipsum
+Button_17593215_31FA_0014_41C0_42BAFB0080F0_mobile.label = Lorem Ipsum
+Button_17596215_31FA_0014_41C6_A42670770708_mobile.label = Lorem Ipsum
+Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6_mobile.label = Lorem Ipsum
+Button_1759D215_31FA_0014_41AD_B6C5744A0B97_mobile.label = Lorem Ipsum
+Button_17590215_31FA_0014_41C1_2B2D012DCC76_mobile.label = Lorem Ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0_mobile.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE_mobile.label = Lorem ipsum
+Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8_mobile.label = Lorem ipsum
+Button_17EB42B7_3106_0014_41B0_CE70CBDDF438.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
+Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B_mobile.label = Lorem ipsum
+Button_17EB42B7_3106_0014_41B0_CE70CBDDF438_mobile.label = Lorem ipsum
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = Main Entrance
+Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Main Entrance
+Button_2A2C053B_310E_001C_41A2_583DE489828C_mobile.label = Meeting Area 1
+Button_2A2C053B_310E_001C_41A2_583DE489828C.label = Meeting Area 1
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label = Meeting Area 2
+Button_2A2C753B_310E_001C_41C4_B649CCC20E3D_mobile.label = Meeting Area 2
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.pressedLabel = Reception
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E_mobile.label = Reception
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = Reception
+Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel = Reception
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = SALA
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = SALA
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = SUÍTE 1
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = SUÍTE 1
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = SUÍTE 2
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = SUÍTE 2
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = SUÍTE 3
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = SUÍTE 3
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF_mobile.label = Terrace
+Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label = Terrace
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_pt.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_pt.png
+Image_0C1809A3_1F0F_446B_41AE_57BBC22E92B3_mobile.url = skin/Image_0C1809A3_1F0F_446B_41AE_57BBC22E92B3_mobile_pt.png
+Image_0C1809A3_1F0F_446B_41AE_57BBC22E92B3.url = skin/Image_0C1809A3_1F0F_446B_41AE_57BBC22E92B3_pt.png
+Image_0C450A0C_1F1F_C43C_41BE_1B6452750BA6_mobile.url = skin/Image_0C450A0C_1F1F_C43C_41BE_1B6452750BA6_mobile_pt.png
+Image_0C450A0C_1F1F_C43C_41BE_1B6452750BA6.url = skin/Image_0C450A0C_1F1F_C43C_41BE_1B6452750BA6_pt.png
+Image_0CB98C2B_1F17_DC7B_41BD_71848CC6F352_mobile.url = skin/Image_0CB98C2B_1F17_DC7B_41BD_71848CC6F352_mobile_pt.png
+Image_0CB98C2B_1F17_DC7B_41BD_71848CC6F352.url = skin/Image_0CB98C2B_1F17_DC7B_41BD_71848CC6F352_pt.png
+Image_0F12A093_1F16_C42B_41B7_289711F04AF4_mobile.url = skin/Image_0F12A093_1F16_C42B_41B7_289711F04AF4_mobile_pt.png
+Image_0F12A093_1F16_C42B_41B7_289711F04AF4.url = skin/Image_0F12A093_1F16_C42B_41B7_289711F04AF4_pt.png
+Image_133081C9_074E_3F50_417F_A207CED26C79_mobile.url = skin/Image_133081C9_074E_3F50_417F_A207CED26C79_mobile_pt.png
+Image_133081C9_074E_3F50_417F_A207CED26C79.url = skin/Image_133081C9_074E_3F50_417F_A207CED26C79_pt.png
+Image_15D314AE_074E_25D0_4175_B391AEE8AA16_mobile.url = skin/Image_15D314AE_074E_25D0_4175_B391AEE8AA16_mobile_pt.png
+Image_15D314AE_074E_25D0_4175_B391AEE8AA16.url = skin/Image_15D314AE_074E_25D0_4175_B391AEE8AA16_pt.png
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile_pt.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_pt.jpg
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.059999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.284454244762955vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.28vmin;word-break:break-word;font-family:'Oswald';"><B><I>Maxxi 135</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.866593164277839vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.87vmin;word-break:break-word;font-family:'Oswald';"><B>3 suítes no Marista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6538037486218302vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;word-break:break-word;">Apartamento mobiliado e decorado a venda com 121 m² 3 suítes no Setor Marista - Goiânia - GO, próximo ao Parque Areião, rico em armários, sala ampla com integração com a cozinha.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.65vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6538037486218302vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;word-break:break-word;">Lazer: Salão de festas, salão gourmet, churrasqueiras, Playground, salão de jogos, espaço mulher, sauna, Spa, academia, piscina adulto e infantil, deck molhado e seco, lazer contemplativo, toda mobiliada e equipada com previsão para ar condicionado Split.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0799999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;word-break:break-word;font-family:'Oswald';"><B><I>Pedida:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;word-break:break-word;font-family:'Oswald';"><B>R$ 1.200.000,00</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.059999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.06vmin;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.284454244762955vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.28vmin;word-break:break-word;font-family:'Oswald';"><B><I>Maxxi 135</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.866593164277839vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.87vmin;word-break:break-word;font-family:'Oswald';"><B>3 suítes no Marista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6538037486218302vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;word-break:break-word;">Apartamento mobiliado e decorado a venda com 121 m² 3 suítes no Setor Marista - Goiânia - GO, próximo ao Parque Areião, rico em armários, sala ampla com integração com a cozinha.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.65vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.6538037486218302vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.65vmin;word-break:break-word;">Lazer: Salão de festas, salão gourmet, churrasqueiras, Playground, salão de jogos, espaço mulher, sauna, Spa, academia, piscina adulto e infantil, deck molhado e seco, lazer contemplativo, toda mobiliada e equipada com previsão para ar condicionado Split.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.0799999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.08vmin;word-break:break-word;font-family:'Oswald';"><B><I>Pedida:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.5vmin;word-break:break-word;font-family:'Oswald';"><B>R$ 1.200.000,00</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.08vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.69vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;word-break:break-word;font-family:'Oswald';"><B><I>Lola</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;word-break:break-word;font-family:'Oswald';"><B><I>Imóveis</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.36vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;word-break:break-word;font-family:'Oswald';"><B><I>Lola</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.77vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.77vh;word-break:break-word;font-family:'Oswald';"><B><I>Imóveis</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.580000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;word-break:break-word;font-family:'Oswald';"><B><I>Claudia Vasconcelos (Lola)</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.27vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.27vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;word-break:break-word;font-family:'Oswald';"><I>CF - 18934</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;word-break:break-word;font-family:'Oswald';"><I>fone: 62 92834-6291</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;word-break:break-word;font-family:'Oswald';"><I>lola@lolaimoveis.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;word-break:break-word;font-family:'Oswald';"><I>www.llolaimoveis.com.br</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7640573318632866vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;word-break:break-word;">Corretora de imóveis a mais de 12 anos, com experiencia em gestão nas maiores imobiliárias e incorporadora de Goiânia. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7640573318632866vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;word-break:break-word;">Com foco em exelência em seus atendimentos buscando a melhor opcão para oferecer a seus clientes. </SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.580000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.58vh;word-break:break-word;font-family:'Oswald';"><B><I>Claudia Vasconcelos (Lola)</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.27vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.27vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.27vh;word-break:break-word;font-family:'Oswald';"><I>CF - 18934</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;word-break:break-word;font-family:'Oswald';"><I>fone: 62 92834-6291</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;word-break:break-word;font-family:'Oswald';"><I>lola@lolaimoveis.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1099999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.11vh;word-break:break-word;font-family:'Oswald';"><I>www.llolaimoveis.com.br</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.94vh;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7640573318632866vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;word-break:break-word;">Corretora de imóveis a mais de 12 anos, com experiencia em gestão nas maiores imobiliárias e incorporadora de Goiânia. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7640573318632866vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.76vh;word-break:break-word;">Com foco em exelência em seus atendimentos buscando a melhor opcão para oferecer a seus clientes. </SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Apartamento 126m² 3 suítes Marista Goiânia-GO
+
+### Title
+tour.name = maxxi 135
+
+## VR Menu
+
+### Text
+Menu_0B694CFD_04CE_6533_4192_83F3B529E840.label = Media
+MenuItem_0EE307E1_1F91_4116_41B7_95C90A76A1C7.label = corredor
+MenuItem_0EE367E0_1F91_4116_41AD_8D49203A55AE.label = corredor2
+MenuItem_0EE2F7E0_1F91_4116_416E_9F6197DF0C10.label = cozinha
+MenuItem_0EE327E1_1F91_4116_41B7_B9889C19408D.label = lavabo
+MenuItem_0EE357E0_1F91_4116_41B0_332CAB6A6923.label = sala1
+MenuItem_0EE2B7E0_1F91_4116_41AC_04EFF30544B2.label = sala2
+MenuItem_0EE217E0_1F91_4116_419A_82075EFB948C.label = sala3
+MenuItem_0EE287E0_1F91_4116_41B8_D71D40BD21BD.label = sala4
+MenuItem_0EE2E7E0_1F91_4116_41AE_74A96CFE202A.label = sala5
+MenuItem_0EE337E1_1F91_4116_41AB_AD10A03EAF10.label = sala6
+MenuItem_0EE297E0_1F91_4116_41BA_210A92AA4221.label = sala7
+MenuItem_0EE2D7E0_1F91_4116_4185_C3022D02EBF2.label = suíte 1 a
+MenuItem_0EE3E7E1_1F91_4116_41A1_5F8795559B75.label = suíte 1 b
+MenuItem_0EE347E0_1F91_4116_41A2_05F39DD6615C.label = suíte 1 banho
+MenuItem_0EE207E0_1F91_4116_41BA_78ABFB4DA6A7.label = suíte 2 banho
+MenuItem_0EE2A7E0_1F91_4116_41B9_4D61EFC43242.label = suíte 2a
+MenuItem_0EE2C7E0_1F91_4116_41B9_68D9BB5BECF4.label = suíte 3 a
+MenuItem_0EE317E1_1F91_4116_419F_47C6C0D75E3A.label = suíte 3 b
+MenuItem_0EE377E0_1F91_4116_41B2_D82954F118CE.label = suíte 3 banho
